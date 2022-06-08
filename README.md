@@ -1,1 +1,2 @@
 # ARIMA-Modeling
+In my Financial Econometrics course, I learned about many different modeling methods and one of my favorite was the ARIMA model. Using my knowledge from the course and the help of the internet, I was able to model the monthly milk production in cows and plot a forecasted prediction alongside actual data. I did this by creating an ETS Plot, running an Augmented Dicky-Fuller Test, creating an Autocorrelation plot, and then making a seasonal ARIMA model.
